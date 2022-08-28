@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/DashboardBarcodeScanner/static/css/main.5d831a83.css",
-    "main.js": "/DashboardBarcodeScanner/static/js/main.22e2384f.js",
+    "main.js": "/DashboardBarcodeScanner/static/js/main.2d13864b.js",
     "static/js/787.95d40ef8.chunk.js": "/DashboardBarcodeScanner/static/js/787.95d40ef8.chunk.js",
     "static/media/approval.png": "/DashboardBarcodeScanner/static/media/approval.4d1d7945d275dace960b.png",
     "static/media/logo.png": "/DashboardBarcodeScanner/static/media/logo.47d6d246e90d05a4537a.png",
     "index.html": "/DashboardBarcodeScanner/index.html",
     "main.5d831a83.css.map": "/DashboardBarcodeScanner/static/css/main.5d831a83.css.map",
-    "main.22e2384f.js.map": "/DashboardBarcodeScanner/static/js/main.22e2384f.js.map",
+    "main.2d13864b.js.map": "/DashboardBarcodeScanner/static/js/main.2d13864b.js.map",
     "787.95d40ef8.chunk.js.map": "/DashboardBarcodeScanner/static/js/787.95d40ef8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d831a83.css",
-    "static/js/main.22e2384f.js"
+    "static/js/main.2d13864b.js"
   ]
 }
